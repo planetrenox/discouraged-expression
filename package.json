@@ -1,0 +1,20 @@
+{
+  "name": "discouraged-expression",
+  "version": "0.1.0",
+  "description": "Use is discouraged. Please do not engage in concerning behavior.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ./src/test.js"
+  },
+  "exports": "./src/index.js",
+  "keywords": [
+    "avoid",
+    "unsupported",
+    "discouraged",
+    "depreciated"
+  ],
+  "author": "https://bit.ly/incessant-vibration",
+  "license": "no have no rights",
+  "homepage": "https://988lifeline.org/"
+}
