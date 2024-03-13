@@ -1,7 +1,7 @@
 {
   "name": "discouraged-expression",
-  "version": "0.1.0",
-  "description": "Use is discouraged. Please do not engage in concerning behavior.",
+  "version": "0.1.1",
+  "description": "Use is discouraged. Please do not engage in concerning behavior. We do not promote this.",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
